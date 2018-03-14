@@ -1,0 +1,306 @@
+{
+  "attendance": {
+    "attendance_list": [
+ 	{
+        "isLeave": "Yes",
+        "LeaveType": "Sunday",
+        "date": "1/04/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "2/04/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "3/05/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Seak Leave",
+        "date": "4/05/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Seak Leave",
+        "date": "5/06/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "6/06/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "7/07/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Sunday",
+        "date": "8/07/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "9/08/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
+      },
+	  {
+        "isLeave": "Yes",
+        "LeaveType": "Casual Leave",
+        "date": "10/08/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "11/09/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Casual Leave",
+        "date": "12/09/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Personal Leave",
+        "date": "13/10/2018",
+        "inTime": "",
+        "outTime": ""
+      },	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "14/10/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "Yes",
+        "LeaveType": "Sunday",
+        "date": "11/11/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "16/11/2018",
+        "inTime": "09:30 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "17/12/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
+      },	  
+	  {
+        "isLeave": "Yes",
+        "LeaveType": "Seak Leave",
+        "date": "18/12/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "19/01/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Personal Leave",
+        "date": "20/01/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Personal Leave",
+        "date": "21/02/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "18/02/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "19/03/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Personal Leave",
+        "date": "20/03/2018",
+        "inTime": "",
+        "outTime": ""
+      }
+    ],
+    "totCount": 10,
+    "result": 1,
+    "message": "Record Found Successfully !!!"
+  },
+  "Leaves": {
+  "Leavelist": [
+    {
+      "LeaveType": "Other",
+      "IsPartial": "Yes",
+      "TotalDays": "0.5",
+      "LeaveStatus": "Approved",
+      "ApplayDate": "15/02/2018",
+      "StartDate": "18/02/2018",
+      "StartTime": "10:30 AM",
+      "EndDate": "18/02/2018",
+      "EndTime": "02:30 PM",
+      "ReasonLeave": "I have some important work to do at home . ",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    },
+    {
+      "LeaveType": "Sick Leave",
+      "IsPartial": "No",
+      "TotalDays": "3",
+      "LeaveStatus": "Pending",
+      "ApplayDate": "22/03/2018",
+      "StartDate": "28/03/2018",
+      "StartTime": "",
+      "EndDate": "30/03/2018",
+      "EndTime": "",
+      "ReasonLeave": "Due to eating at a new place, had food poisoning and vomiting a lot or may be an allergic reaction with some food. So, went to the hospital.",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    },
+    {
+      "LeaveType": "Casual leave",
+      "IsPartial": "No",
+      "TotalDays": "2",
+      "LeaveStatus": "Approved",
+      "ApplayDate": "01/04/2018",
+      "StartDate": "05/04/2018",
+      "StartTime": "",
+      "EndDate": "06/04/2018",
+      "EndTime": "",
+      "ReasonLeave": "I need to go to native as my grandpa is making a Will and distributing property! And he has requested everyone who is getting property needs to sign in some documents!!",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    },
+    {
+      "LeaveType": "Personal leave",
+      "IsPartial": "No",
+      "TotalDays": "1",
+      "LeaveStatus": "Rejected",
+      "ApplayDate": "05/05/2018",
+      "StartDate": "06/05/2018",
+      "StartTime": "",
+      "EndDate": "06/05/2018",
+      "EndTime": "",
+      "ReasonLeave": " My son is not concentrating on studies and the class teacher called me for coming. Need to discuss face to face",
+      "ReasonRejected": "As requested Day there is no one who take care of your work . so you need to plan some other days .",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    },
+    {
+      "LeaveType": "Other",
+      "IsPartial": "No",
+      "TotalDays": "1",
+      "LeaveStatus": "Draft",
+      "ApplayDate": "",
+      "StartDate": "08/08/2018",
+      "StartTime": "",
+      "EndDate": "08/08/2018",
+      "EndTime": "",
+      "ReasonLeave": " My distance cousin is getting married and I can’t afford to miss that. Actually he came home to invite me personally.",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    }
+  ],
+  "totalLeaves": 12,
+  "LeavesTaken": 6,
+  "PersonalLeave": 2,
+  "CasualLeave": 1,
+  "SickLeave": 3,
+  "OptionalLeave": 0,
+  "Other": 0,
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+},
+  "profile": {
+  "Name": "Kody",
+  "Department": "Sales",
+  "Designation": "Manager",
+  "Photo": "https://image.ibb.co/mKPd3S/profile_img.jpg",
+  "Email": "kody@gmail.com",
+  "PhoneNo": "7433011878",
+  "Address": "358,shikhar apartment",
+  "Date": "1 jan 2018",
+  "Birthdate": "12 jun 2018 ",
+  "Experience": "2.5 year exp",
+  "TotalExpense": "5000",
+  "TotalVisits": "12",
+  "TotalCollection": "78",
+  "TotaLeaves": "14/98",
+  "TotalAttandence": "83/91"
+}
+}
