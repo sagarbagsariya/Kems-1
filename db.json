@@ -1,203 +1,98 @@
 {
-  "attendance": {
-    "attendance_list": [
- 	{
-        "isLeave": "Yes",
-        "LeaveType": "Sunday",
-        "date": "1/04/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "2/04/2018",
-        "inTime": "10:00 AM",
-        "outTime": "07:00 PM"
-      },
-	  
-	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "3/05/2018",
-        "inTime": "10:30 AM",
-        "outTime": "07:30 PM"
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Seak Leave",
-        "date": "4/05/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Seak Leave",
-        "date": "5/06/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "6/06/2018",
-        "inTime": "10:00 AM",
-        "outTime": "07:00 PM"
-      },
-	  
-	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "7/07/2018",
-        "inTime": "10:30 AM",
-        "outTime": "07:30 PM"
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Sunday",
-        "date": "8/07/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	   {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "9/08/2018",
-        "inTime": "10:00",
-        "outTime": "05:30"
-      },
-	  {
-        "isLeave": "Yes",
-        "LeaveType": "Casual Leave",
-        "date": "10/08/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "11/09/2018",
-        "inTime": "10:30 AM",
-        "outTime": "07:30 PM"
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Casual Leave",
-        "date": "12/09/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Personal Leave",
-        "date": "13/10/2018",
-        "inTime": "",
-        "outTime": ""
-      },	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "14/10/2018",
-        "inTime": "10:00 AM",
-        "outTime": "07:00 PM"
-      },
-	  
-	  
-	  {
-        "isLeave": "Yes",
-        "LeaveType": "Sunday",
-        "date": "11/11/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	   {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "16/11/2018",
-        "inTime": "09:30 AM",
-        "outTime": "07:00 PM"
-      },
-	  
-	   {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "17/12/2018",
-        "inTime": "10:00",
-        "outTime": "05:30"
-      },	  
-	  {
-        "isLeave": "Yes",
-        "LeaveType": "Seak Leave",
-        "date": "18/12/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "19/01/2018",
-        "inTime": "10:30 AM",
-        "outTime": "07:30 PM"
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Personal Leave",
-        "date": "20/01/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Personal Leave",
-        "date": "21/02/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "18/02/2018",
-        "inTime": "10:00 AM",
-        "outTime": "07:00 PM"
-      },
-	  
-	  
-	  {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "19/03/2018",
-        "inTime": "10:30 AM",
-        "outTime": "07:30 PM"
-      },
-	  
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Personal Leave",
-        "date": "20/03/2018",
-        "inTime": "",
-        "outTime": ""
-      }
-    ],
-    "totCount": 10,
-    "result": 1,
-    "message": "Record Found Successfully !!!"
-  },
+  "Expense": {
+  "Expenses": [
+    {
+      "expId": "21123",
+      "expOf": "Client Visit",
+      "expDate": "01/04/2018",
+      "expTotItems": "2",
+      "expStatus": "Approved",
+      "expTotValue": "450",
+      "expItems": [
+        {
+          "expItemId": "123234",
+          "expType": "Food",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123235",
+          "expType": "Travel",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123236",
+          "expType": "Petrol",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        }
+      ]
+    },
+    {
+      "expId": "21124",
+      "expOf": "Delivery",
+      "expDate": "02/04/2018",
+      "expTotItems": "3",
+      "expStatus": "Queried",
+      "expTotValue": "600",
+      "expItems": [
+        {
+          "expItemId": "123244",
+          "expType": "Food",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123245",
+          "expType": "Medical",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123246",
+          "expType": "Stationery",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        }
+      ]
+    },
+    {
+      "expId": "21125",
+      "expOf": "Collection ",
+      "expDate": "15/04/2018",
+      "expTotItems": "2",
+      "expStatus": "Draft",
+      "expTotValue": "250",
+      "expItems": [
+        {
+          "expItemId": "123255",
+          "expType": "Rixa",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123245",
+          "expType": "Food",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        }
+      ]
+    }
+  ],
+  "totalApproved": "2700",
+  "duration": "January 2018",
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+},
   "Leaves": {
   "Leavelist": [
     {

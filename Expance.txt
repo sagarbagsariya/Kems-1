@@ -1,0 +1,94 @@
+{
+  "Expenses": [
+    {
+      "expId": "21123",
+      "expOf": "Client Visit",
+      "expDate": "01/04/2018",
+      "expTotItems": "2",
+      "expStatus": "Approved",
+      "expTotValue": "450",
+      "expItems": [
+        {
+          "expItemId": "123234",
+          "expType": "Food",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123235",
+          "expType": "Travel",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123236",
+          "expType": "Petrol",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        }
+      ]
+    },
+    {
+      "expId": "21124",
+      "expOf": "Delivery",
+      "expDate": "02/04/2018",
+      "expTotItems": "3",
+      "expStatus": "Queried",
+      "expTotValue": "600",
+      "expItems": [
+        {
+          "expItemId": "123244",
+          "expType": "Food",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123245",
+          "expType": "Medical",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123246",
+          "expType": "Stationery",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        }
+      ]
+    },
+    {
+      "expId": "21125",
+      "expOf": "Collection ",
+      "expDate": "15/04/2018",
+      "expTotItems": "2",
+      "expStatus": "Draft",
+      "expTotValue": "250",
+      "expItems": [
+        {
+          "expItemId": "123255",
+          "expType": "Rixa",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123245",
+          "expType": "Food",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        }
+      ]
+    }
+  ],
+  "totalApproved": "2700",
+  "duration": "January 2018",
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+}
