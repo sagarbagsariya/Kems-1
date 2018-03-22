@@ -13,7 +13,7 @@
           "expType": "Food",
           "expAmt": "120",
           "isAttach": "Yes",
-           "expOf": "Client Visit",
+           "expOf": "Client Order",
           "attechUrl": ""
         },
         {
@@ -29,7 +29,7 @@
           "expType": "Petrol",
           "expAmt": "500",
           "isAttach": "Yes",
-           "expOf": "Client Visit",
+           "expOf": "Delivery",
           "attechUrl": ""
         }
       ]
@@ -46,7 +46,7 @@
           "expType": "Food",
           "expAmt": "120",
           "isAttach": "Yes",
-           "expOf": "Delivery",
+           "expOf": "Party",
           "attechUrl": ""
         },
         {
@@ -54,7 +54,7 @@
           "expType": "Medical",
           "expAmt": "250",
           "isAttach": "No",
-           "expOf": "Delivery",
+           "expOf": "Clint Visit",
           "attechUrl": ""
         },
         {
@@ -62,7 +62,7 @@
           "expType": "Stationery",
           "expAmt": "500",
           "isAttach": "Yes",
-           "expOf": "Delivery",
+           "expOf": "Conferance",
           "attechUrl": ""
         }
       ]
@@ -87,7 +87,7 @@
           "expType": "Food",
           "expAmt": "250",
           "isAttach": "No",
-          "expOf": "Collection ",
+          "expOf": "Order Visit ",
           "attechUrl": ""
         }
       ]
