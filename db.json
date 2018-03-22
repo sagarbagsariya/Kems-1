@@ -3,7 +3,6 @@
   "Expenses": [
     {
       "expId": "21123",
-      "expOf": "Client Visit",
       "expDate": "01/04/2018",
       "expTotItems": "2",
       "expStatus": "Approved",
@@ -14,6 +13,7 @@
           "expType": "Food",
           "expAmt": "120",
           "isAttach": "Yes",
+           "expOf": "Client Visit",
           "attechUrl": ""
         },
         {
@@ -21,6 +21,7 @@
           "expType": "Travel",
           "expAmt": "250",
           "isAttach": "No",
+           "expOf": "Client Visit",
           "attechUrl": ""
         },
         {
@@ -28,13 +29,13 @@
           "expType": "Petrol",
           "expAmt": "500",
           "isAttach": "Yes",
+           "expOf": "Client Visit",
           "attechUrl": ""
         }
       ]
     },
     {
       "expId": "21124",
-      "expOf": "Delivery",
       "expDate": "02/04/2018",
       "expTotItems": "3",
       "expStatus": "Queried",
@@ -45,6 +46,7 @@
           "expType": "Food",
           "expAmt": "120",
           "isAttach": "Yes",
+           "expOf": "Delivery",
           "attechUrl": ""
         },
         {
@@ -52,6 +54,7 @@
           "expType": "Medical",
           "expAmt": "250",
           "isAttach": "No",
+           "expOf": "Delivery",
           "attechUrl": ""
         },
         {
@@ -59,13 +62,13 @@
           "expType": "Stationery",
           "expAmt": "500",
           "isAttach": "Yes",
+           "expOf": "Delivery",
           "attechUrl": ""
         }
       ]
     },
     {
       "expId": "21125",
-      "expOf": "Collection ",
       "expDate": "15/04/2018",
       "expTotItems": "2",
       "expStatus": "Draft",
@@ -76,6 +79,7 @@
           "expType": "Rixa",
           "expAmt": "120",
           "isAttach": "Yes",
+          "expOf": "Collection ",
           "attechUrl": ""
         },
         {
@@ -83,6 +87,7 @@
           "expType": "Food",
           "expAmt": "250",
           "isAttach": "No",
+          "expOf": "Collection ",
           "attechUrl": ""
         }
       ]
