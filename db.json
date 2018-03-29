@@ -3,6 +3,38 @@
   "Expenses": [
     {
       "expId": "21123",
+      "expOf": "Client Visit",
+      "expDate": "01/04/2018",
+      "expTotItems": "2",
+      "expStatus": "Draft",
+      "expTotValue": "450",
+      "expItems": [
+        {
+          "expItemId": "123234",
+          "expType": "Food",
+          "expAmt": "120",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123235",
+          "expType": "Travel",
+          "expAmt": "250",
+          "isAttach": "No",
+          "attechUrl": ""
+        },
+        {
+          "expItemId": "123236",
+          "expType": "Petrol",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        }
+      ]
+    },
+     {
+      "expId": "21123",
+      "expOf": "Client Visit",
       "expDate": "01/04/2018",
       "expTotItems": "2",
       "expStatus": "Approved",
@@ -13,7 +45,6 @@
           "expType": "Food",
           "expAmt": "120",
           "isAttach": "Yes",
-           "expOf": "Client Order",
           "attechUrl": ""
         },
         {
@@ -21,7 +52,6 @@
           "expType": "Travel",
           "expAmt": "250",
           "isAttach": "No",
-           "expOf": "Client Visit",
           "attechUrl": ""
         },
         {
@@ -29,13 +59,13 @@
           "expType": "Petrol",
           "expAmt": "500",
           "isAttach": "Yes",
-           "expOf": "Delivery",
           "attechUrl": ""
         }
       ]
     },
     {
       "expId": "21124",
+      "expOf": "Delivery",
       "expDate": "02/04/2018",
       "expTotItems": "3",
       "expStatus": "Queried",
@@ -46,7 +76,6 @@
           "expType": "Food",
           "expAmt": "120",
           "isAttach": "Yes",
-           "expOf": "Party",
           "attechUrl": ""
         },
         {
@@ -54,7 +83,6 @@
           "expType": "Medical",
           "expAmt": "250",
           "isAttach": "No",
-           "expOf": "Clint Visit",
           "attechUrl": ""
         },
         {
@@ -62,13 +90,13 @@
           "expType": "Stationery",
           "expAmt": "500",
           "isAttach": "Yes",
-           "expOf": "Conferance",
           "attechUrl": ""
         }
       ]
     },
     {
       "expId": "21125",
+      "expOf": "Collection ",
       "expDate": "15/04/2018",
       "expTotItems": "2",
       "expStatus": "Draft",
@@ -79,7 +107,6 @@
           "expType": "Rixa",
           "expAmt": "120",
           "isAttach": "Yes",
-          "expOf": "Collection ",
           "attechUrl": ""
         },
         {
@@ -87,7 +114,6 @@
           "expType": "Food",
           "expAmt": "250",
           "isAttach": "No",
-          "expOf": "Order Visit ",
           "attechUrl": ""
         }
       ]
@@ -95,94 +121,6 @@
   ],
   "totalApproved": "2700",
   "duration": "January 2018",
-  "result": 1,
-  "message": "Record Found Successfully !!!"
-},
-  "Leaves": {
-  "Leavelist": [
-    {
-      "LeaveType": "Other",
-      "IsPartial": "Yes",
-      "TotalDays": "0.5",
-      "LeaveStatus": "Approved",
-      "ApplayDate": "15/02/2018",
-      "StartDate": "18/02/2018",
-      "StartTime": "10:30 AM",
-      "EndDate": "18/02/2018",
-      "EndTime": "02:30 PM",
-      "ReasonLeave": "I have some important work to do at home . ",
-      "ReasonRejected": "",
-      "Department": "Sales",
-      "SeniorPerson": "mark henry"
-    },
-    {
-      "LeaveType": "Sick Leave",
-      "IsPartial": "No",
-      "TotalDays": "3",
-      "LeaveStatus": "Pending",
-      "ApplayDate": "22/03/2018",
-      "StartDate": "28/03/2018",
-      "StartTime": "",
-      "EndDate": "30/03/2018",
-      "EndTime": "",
-      "ReasonLeave": "Due to eating at a new place, had food poisoning and vomiting a lot or may be an allergic reaction with some food. So, went to the hospital.",
-      "ReasonRejected": "",
-      "Department": "Sales",
-      "SeniorPerson": "mark henry"
-    },
-    {
-      "LeaveType": "Casual leave",
-      "IsPartial": "No",
-      "TotalDays": "2",
-      "LeaveStatus": "Approved",
-      "ApplayDate": "01/04/2018",
-      "StartDate": "05/04/2018",
-      "StartTime": "",
-      "EndDate": "06/04/2018",
-      "EndTime": "",
-      "ReasonLeave": "I need to go to native as my grandpa is making a Will and distributing property! And he has requested everyone who is getting property needs to sign in some documents!!",
-      "ReasonRejected": "",
-      "Department": "Sales",
-      "SeniorPerson": "mark henry"
-    },
-    {
-      "LeaveType": "Personal leave",
-      "IsPartial": "No",
-      "TotalDays": "1",
-      "LeaveStatus": "Rejected",
-      "ApplayDate": "05/05/2018",
-      "StartDate": "06/05/2018",
-      "StartTime": "",
-      "EndDate": "06/05/2018",
-      "EndTime": "",
-      "ReasonLeave": " My son is not concentrating on studies and the class teacher called me for coming. Need to discuss face to face",
-      "ReasonRejected": "As requested Day there is no one who take care of your work . so you need to plan some other days .",
-      "Department": "Sales",
-      "SeniorPerson": "mark henry"
-    },
-    {
-      "LeaveType": "Other",
-      "IsPartial": "No",
-      "TotalDays": "1",
-      "LeaveStatus": "Draft",
-      "ApplayDate": "",
-      "StartDate": "08/08/2018",
-      "StartTime": "",
-      "EndDate": "08/08/2018",
-      "EndTime": "",
-      "ReasonLeave": " My distance cousin is getting married and I can’t afford to miss that. Actually he came home to invite me personally.",
-      "ReasonRejected": "",
-      "Department": "Sales",
-      "SeniorPerson": "mark henry"
-    }
-  ],
-  "totalLeaves": 12,
-  "LeavesTaken": 6,
-  "PersonalLeave": 2,
-  "CasualLeave": 1,
-  "SickLeave": 3,
-  "OptionalLeave": 0,
-  "Other": 0,
   "result": 1,
   "message": "Record Found Successfully !!!"
 },
