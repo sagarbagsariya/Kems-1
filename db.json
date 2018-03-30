@@ -24,6 +24,13 @@
           "attechUrl": ""
         },
         {
+          "expItemId": "",
+          "expType": "Medical",
+          "expAmt": "500",
+          "isAttach": "Yes",
+          "attechUrl": ""
+        },
+        {
           "expItemId": "123236",
           "expType": "Petrol",
           "expAmt": "500",
